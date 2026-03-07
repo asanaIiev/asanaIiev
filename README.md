@@ -1,5 +1,9 @@
-<h1 align="center">Hey 👋, I'm DeKrypt!</h1>
-<h3 align="center">I'm a 15 year old Software Engineer and Content Creator.</h3>
+<div align="center">
+  <picture>
+    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+AI+Engineer" type="image/svg+xml">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+AI+Engineer" alt="Typing SVG">
+  </picture>
+</div>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />

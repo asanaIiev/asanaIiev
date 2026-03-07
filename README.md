@@ -16,16 +16,13 @@
 
 **Python developer with fundamental 
 knowledge in machine learning and 
-backend development. Currently a 
-2nd-year student at International 
-Kuwait University, with 1.5 years 
-of experience in Python ML 
+backend development. 1.5 years 
+of experience in ML 
 engineering, capable of performing 
 data analysis, creating charts, and 
 training models. Skilled in building 
 backend systems using Django and 
-FastAPI, and real-time technologies 
-via WebSocket, as well as working 
+FastAPI, as well as working 
 with PostgreSQL databases. Possess 
 a strong understanding of the Linux 
 environment.**

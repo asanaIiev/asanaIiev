@@ -14,7 +14,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-- 💬 Ask me about: **System Scripting, Windows API, Reverse Engineering and Tutorial-Style Content Creation.**
+- **Backend:** Python, Django / Django REST Framework, FastAPI
   
 ---
 

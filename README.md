@@ -42,16 +42,6 @@ environment.**
     <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
-
-<h2 align="center"></h2>
-
-<div align="center">
-  <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+AI+Engineer" type="image/svg+xml">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+AI+Engineer" alt="Typing SVG">
-  </picture>
-</div>
-
 ---
 
 ## Tech Stack

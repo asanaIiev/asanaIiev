@@ -42,8 +42,6 @@ environment.**
     <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
----
-
 ## Tech Stack
 - **Backend:** Python, Django / Django REST Framework, FastAPI
 - **API:** GenericAPIView, APIView, filtering, Swagger/OpenAPI docs, pagination, CRUD (POST, GET, PUT, DELETE)

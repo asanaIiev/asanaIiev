@@ -44,14 +44,11 @@ environment.**
 
 ## Tech Stack
 - **Backend:** Python, Django / Django REST Framework, FastAPI
-- **API:** GenericAPIView, APIView, filtering, Swagger/OpenAPI docs, pagination, CRUD (POST, GET, PUT, DELETE)
-- **Machine Learning:** Pandas, Seaborn, Matplotlib, scikit-learn, numpy
-- **Auth:** Cookies, JWT, registration/authentication, allauth, bcrypt password hashing
-- **Migrations & Tools:** Alembic, pgAdmin4
+- **Machine Learning:** scikit-learn, PyTorch, Pandas, Seaborn, Matplotlib, numpy, 
 - **Realtime & Deploy:** WebSocket, Redis
-- **DevOps:** Docker, docker-compose, .env
+- **Deploy:** AWS, Docker, docker-compose
 - **Database:** PostgreSQL, SQLAlchemy
-- **Other:** GitHub, AWS, Linux
+- **Other:** Linux
 
 ---
 

@@ -45,7 +45,7 @@ environment.**
     <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>

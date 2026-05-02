@@ -14,18 +14,11 @@
 
 <h4 align="center">- About Me - </h4>
 
-**Python developer with fundamental 
-knowledge in machine learning and 
-backend development. 1.5 years 
-of experience in ML 
-engineering, capable of performing 
-data analysis, creating charts, and 
-training models. Skilled in building 
-backend systems using Django and 
-FastAPI, as well as working 
-with PostgreSQL databases. Possess 
-a strong understanding of the Linux 
-environment.**
+**AI engineer with one and a half years of experience in development at the intersection of machine learning and backend. Specializes in
+designing the server part of applications, working with relational databases and implementing system exchange
+data at first. In the field of neural networks, I have full cycle skills: from data preparation and
+Design architecture before deployment and create models in production. I have experience in automating assembly processes and
+code delivery (CI/CD), as well as strong administration skills in a Linux environment.**
   
 ---
 

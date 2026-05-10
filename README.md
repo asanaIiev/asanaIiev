@@ -27,28 +27,47 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+  
   </a>
+  
   <a href="https://pytorch.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  
   </a>
+  
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+ 
   </a>
+  
   <a href="https://www.kali.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/>
+ 
   </a>
+  
   <a href="https://fastapi.tiangolo.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  
   </a>
+  
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+  
   </a>
+  
   <a href="https://scikit-learn.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+    
   </a>
+  
   <a href="https://git-scm.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+    
   </a>
+  
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+    
 </p>
 
 ---

@@ -110,4 +110,4 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
 ---
 
 ## Contact
-- **GitHub:** [sajkfndknbhvdsgj](https://github.com/Ryui-code)
+- **GitHub:** [asanaIiev](https://github.com/asanaIiev)

@@ -67,6 +67,13 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://docs.gitlab.com/ci" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+
+  </a>
     
 </p>
 

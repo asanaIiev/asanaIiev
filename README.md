@@ -62,6 +62,11 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   
 <a href="https://www.djangoproject.com" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+
+  </a>
+  
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>
     
   </a>
   

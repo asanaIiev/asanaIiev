@@ -22,7 +22,7 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   
 ---
 
-<h3 align="center"> Tools & Technologies</h3>
+<h4 align="center">- Tools/Technologies - </h4>
 
 <h4 align="center"> AI Engineering</h4>
 <p align="center">

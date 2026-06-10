@@ -14,11 +14,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-**AI engineer with one and a half years of experience in development at the intersection of machine learning and backend. Specializes in
-designing the server part of applications, working with relational databases and implementing system exchange
-data at first. In the field of neural networks, I have full cycle skills: from data preparation and
-Design architecture before deployment and create models in production. I have experience in automating assembly processes and
-code delivery (CI/CD), as well as strong administration skills in a Linux environment.**
+**A versatile Python Developer and AI/ML Engineer with a deep understanding of DevOps, automation, and system administration. I specialize in bridging the gap between intelligent deep learning systems and scalable, production-ready infrastructure. My expertise covers the full lifecycle of software and model development: from designing fault-tolerant server-side applications, building scalable REST/WebSocket APIs, and optimizing relational databases, to data preprocessing, designing neural network architectures (CV & NLP), and deploying them through MLOps. Proficient in Linux environments, containerization (Docker), and automated CI/CD pipelines, I excel at finding the perfect balance between writing clean, efficient code and establishing reliable delivery infrastructure.**
   
 ---
 

@@ -49,6 +49,11 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
  
   </a>
+
+<a href="https://cloud.redis.io/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40"/>
+ 
+  </a>
   
 <a href="https://www.kali.org" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/>

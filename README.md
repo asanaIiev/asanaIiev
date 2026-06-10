@@ -22,10 +22,10 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   
 ---
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
+<h3 align="center"> Tools & Technologies</h3>
 
-<h4 align="left">🧠 AI Engineering</h4>
-<p align="left">
+<h4 align="center"> AI Engineering</h4>
+<p align="center">
   <a href="https://pytorch.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
   </a>
@@ -40,8 +40,8 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   </a>
 </p>
 
-<h4 align="left">🐍 Python Backend Development</h4>
-<p align="left">
+<h4 align="center"> Python Backend Development</h4>
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   </a>
@@ -59,8 +59,8 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   </a>
 </p>
 
-<h4 align="left">🚀 DevOps & Security</h4>
-<p align="left">
+<h4 align="center"> DevOps & Security</h4>
+<p align="center">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   </a>

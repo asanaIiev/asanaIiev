@@ -22,84 +22,63 @@ code delivery (CI/CD), as well as strong administration skills in a Linux enviro
   
 ---
 
-<h4 align="center">- Tools/Languages -</h4>
+<h3 align="center">🛠️ Tools & Technologies</h3>
 
-<p align="center">
-<a href="https://www.python.org" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
-  
+<h4 align="left">🧠 AI Engineering</h4>
+<p align="left">
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
   </a>
-  
-<a href="https://pytorch.org" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  
+  <a href="https://github.com/opencv/opencv" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
   </a>
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/>
+  </a>
+</p>
 
-<a href="https://github.com/opencv/opencv" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<h4 align="left">🐍 Python Backend Development</h4>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  </a>
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>
+  <a href="https://cloud.redis.io/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  </a>
+</p>
 
+<h4 align="left">🚀 DevOps & Security</h4>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   </a>
-
-<a href="https://scikit-learn.org" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
-  
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
   </a>
-  
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
- 
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
   </a>
-
-<a href="https://cloud.redis.io/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40"/>
- 
+  <a href="https://docs.gitlab.com/ci" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab CI"/>
   </a>
-  
-<a href="https://www.kali.org" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/>
- 
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   </a>
-  
-<a href="https://fastapi.tiangolo.com" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  
+  <a href="https://www.kali.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="Kali Linux"/>
   </a>
-  
-<a href="https://www.djangoproject.com" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
-
-  </a>
-
-<a href="https://nginx.org/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-
-  </a>
-  
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>
-    
-  </a>
-  
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
-    
-  </a>
-  
-<a href="https://github.com/features/actions" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
-
-  </a>
-
-<a href="https://docs.gitlab.com/ci" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-
-  </a>
-
-<a href="https://streamlit.io/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="40" height="40"/>
-
-  </a>
-    
 </p>
 
 ---

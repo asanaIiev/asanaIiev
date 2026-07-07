@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Python+AI+Engineer" type="image/svg+xml">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Python+AI+Engineer" alt="Typing SVG">
+    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Python+Engineer" type="image/svg+xml">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Python+Engineer" alt="Typing SVG">
   </picture>
 </div>
 

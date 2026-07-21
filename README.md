@@ -117,4 +117,4 @@
 ---
 
 ## Contact
-- **GitHub:** [asanaIiev](https://github.com/asanaIiev)
+- **Telegram:** [T.me](https://t.me/o8813)

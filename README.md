@@ -31,9 +31,6 @@
   <a href="https://scikit-learn.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/>
-  </a>
 </p>
 
 <h4 align="center"> Python Backend Development</h4>

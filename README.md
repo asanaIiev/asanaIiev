@@ -85,7 +85,7 @@
 
 ---
 
-Tech Stack
+## Tech Stack
 - **Backend & API Development:** Python, FastAPI, Django, REST API, WebSockets, Asyncio, Nginx, Streamlit, Microservices,
 Monolit
 - **AI / ML / DL & Data Science:** PyTorch, NLP/CV/AR/SR, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV,

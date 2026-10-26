@@ -85,15 +85,16 @@
 
 ---
 
-**Backend & API Development:** Python, FastAPI, Django, REST API, WebSockets, Asyncio, Nginx, Streamlit, Microservices,
+## Tech Stack
+- **Backend & API Development:** Python, FastAPI, Django, REST API, WebSockets, Asyncio, Nginx, Streamlit, Microservices,
 Monolit
-**AI / ML / DL & Data Science:** PyTorch, NLP/CV/AR/SR, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV,
+- **AI / ML / DL & Data Science:** PyTorch, NLP/CV/AR/SR, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV,
 Mediapipe, Yolo, Aiogram, Dify, Roboflow, n8n, Langchain, Langraph, Langsmith, Harness
-**DevOps & CI/CD:** GitLab CI/CD, GitHub Actions, Docker, Docker Compose, Linux, Git
-**Databases & ORM:** PostgreSQL, SQLite, Redis, MongoDB, SQLAlchemy, PyMongo
-**Authentication & Security:** JWT, OAuth2, passlib, Pydantic, django-allauth
-**Cloud & Deployment:** AWS, EC2, Serverless-deployments, Ubuntu, Kali
-**Testing & Tools:** Swagger/OpenAPI, Pytest, Postman
+- **DevOps & CI/CD:** GitLab CI/CD, GitHub Actions, Docker, Docker Compose, Linux, Git
+- **Databases & ORM:** PostgreSQL, SQLite, Redis, MongoDB, SQLAlchemy, PyMongo
+- **Authentication & Security:** JWT, OAuth2, passlib, Pydantic, django-allauth
+- **Cloud & Deployment:** AWS, EC2, Serverless-deployments, Ubuntu, Kali
+- **Testing & Tools:** Swagger/OpenAPI, Pytest, Postman
 
 
 ## Contact

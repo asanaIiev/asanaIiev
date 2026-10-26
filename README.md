@@ -14,7 +14,7 @@
 
 <h4 align="center">- Tools/Technologies - </h4>
 
-<h4 align="center"> AI Engineering</h4>
+<h4 align="center"> Artifical Intelligence Engineering</h4>
 <p align="center">
   <a href="https://pytorch.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>

@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ai+Engineer" type="image/svg+xml">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ai+Engineer" alt="Typing SVG">
+    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Artifical+Intelligence+Engineer" type="image/svg+xml">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Artifical+Intelligence+Enginee" alt="Typing SVG">
   </picture>
 </div>
 

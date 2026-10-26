@@ -12,12 +12,6 @@
 
 ---
 
-<h4 align="center">- About Me - </h4>
-
-**A versatile Python Developer and AI/ML Engineer with a deep understanding of DevOps, automation, and system administration. I specialize in bridging the gap between intelligent deep learning systems and scalable, production-ready infrastructure. My expertise covers the full lifecycle of software and model development: from designing fault-tolerant server-side applications, building scalable REST/WebSocket APIs, and optimizing relational databases, to data preprocessing, designing neural network architectures (CV & NLP), and deploying them through MLOps. Proficient in Linux environments, containerization (Docker), and automated CI/CD pipelines, I excel at finding the perfect balance between writing clean, efficient code and establishing reliable delivery infrastructure.**
-  
----
-
 <h4 align="center">- Tools/Technologies - </h4>
 
 <h4 align="center"> AI Engineering</h4>
